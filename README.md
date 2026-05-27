@@ -8,9 +8,9 @@
 
 | Device Name | Codename | Platform | Android Version |
 | :--- | :--- | :--- | :--- |
-| **Poco X3 NFC** | `surya` | Snapdragon 732G | LineageOS 22.2 (A15) |
-| **Redmi 4X** | `santoni` | Snapdragon 435 | LineageOS 22.2 (A15) |
-| **Galaxy Note II** | `t0lte` | Exynos 4412 | LineageOS 21.0 (A14) |
+| **Poco X3 NFC** | `surya` | Snapdragon 732G | LineageOS 22.2 (A15) | ✅ |
+| **Redmi 4X** | `santoni` | Snapdragon 435 | LineageOS 22.2 (A15) | ⚠️ |
+| **Galaxy Note II** | `t0lte` | Exynos 4412 | LineageOS 21.0 (A14) | ⚠️ |
 
 ---
 
@@ -53,7 +53,5 @@ Choose the variant that best fits your needs from the [Releases](../../releases)
 
 ---
 
-## 📜 License
-This project is licensed under the **GNU General Public License v2.0**.
 
-*Developed with ❤️ by the LiCIK Community.*
+*Developed with ❤️ by the LiCIK.*
