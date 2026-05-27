@@ -54,4 +54,4 @@ Choose the variant that best fits your needs from the [Releases](../../releases)
 ---
 
 
-*Developed with ❤️ by the LiCIK.*
+*Developed with ❤️ by the wikilow.*
